@@ -4,6 +4,7 @@
   "description": "Tracks and stores all encountered errors with their corresponding fixes.",
   "version": "0.0.1",
   "publisher": "teewealthcodes",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.91.0"
   },
