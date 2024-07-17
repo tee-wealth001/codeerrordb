@@ -58,6 +58,10 @@
         }
       ]
     },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/tee-wealth001/codeerrordb"
+    },
     "configuration": {
       "type": "object",
       "title": "Error Database Configuration",
