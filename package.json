@@ -2,7 +2,7 @@
   "name": "codeerrordb",
   "displayName": "CodeErrorDB",
   "description": "Tracks and stores all encountered errors with their corresponding fixes.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "teewealthcodes",
   "license": "MIT",
   "engines": {
