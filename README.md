@@ -19,7 +19,10 @@ Code Error DB is a Visual Studio Code extension that tracks and records errors e
 ## Usage
 
 1. Install the extension from the VS Code Marketplace.
+after enabling the extension, you will see some buttons and text at the base of your VS code
+![Buttons](https://github.com/tee-wealth001/codeerrordb/raw/main/images/buttonsontab.png)
 2. Use the commands from the Command Palette (Ctrl+Shift+P or Cmd+Shift+P) to interact with the error database.
+![Prompt](https://github.com/tee-wealth001/codeerrordb/raw/main/images/commandPrompt.png)
 3. After fixing an error, look for a prompt to add the fix description.
 
 ## Installation
