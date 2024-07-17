@@ -29,7 +29,7 @@ after enabling the extension, you will see some buttons and text at the base of 
 
 1. Open VS Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
-3. Search for "Code Error DB" and click Install.
+3. Search for "CodeErrorDB" and click Install.
 
 ## Extension Settings
 
